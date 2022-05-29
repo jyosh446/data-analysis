@@ -22,9 +22,23 @@ and then install the following libraries
 5. [Scikit-learn](https://scikit-learn.org/stable/)
 
 ### RESULTS
+The following conclusions were obtained:
+* Maruti Suzuki,Hyundai,Toyota,Tata and Mahindra are the top 5 companies with more car varaints.
+* Most of the engine size is between the range of 624cc to 2000cc.
+* SUVs are the most popular type of Cars, followed by Hatchbacks and Sedan.
+* Large number of cars have the price range of 5-10 Lakh.
+* The Sedan sells at the highest Ex-Showroomprice followed by Sedan,couple and Sports.
+* Usage of Petrol and Diesel fuel types are in dominant numbers.
+* As Displacement of car increases price also increases.
+* correlation and pie charts were also obtained for better analysis
+
 
 
 ### Future scope
 This is not the end. Further I aim to develop this appilication by
 1. Adding Machine Learning algorithms to the code
 2. full end application
+
+
+THANK YOU
+[Jyoshna Vallabhaneni](https://www.linkedin.com/in/jyoshna-vallabhaneni/)
