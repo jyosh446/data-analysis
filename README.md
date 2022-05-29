@@ -5,7 +5,7 @@
  This projects aims at studying and analyzing various trends of the industry as well as market predictions.
  
  ## Insights
- This Analysis was done in Jupyter Notebook.Data is obtained as csv file. After Cleansing the datasheet predictions were made comparing aspects such as
+ This Analysis was done in Jupyter Notebook. Data is obtained as csv file. After Cleansing the datasheet predictions were made comparing aspects such as
  * Top car varient selling cars
  * Popular car types
  * Price range analysis in market
